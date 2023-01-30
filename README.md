@@ -7,3 +7,6 @@ npm run install
 For execution : Type the following in cmd file location
 npm run built
 npm run start
+
+IHome Page Snapshot :
+![image](https://user-images.githubusercontent.com/111111808/215387026-fffc0dee-5995-427f-8d8b-78203f94fba7.png)
